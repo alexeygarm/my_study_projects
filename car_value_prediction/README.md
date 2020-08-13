@@ -34,5 +34,5 @@
 * время обучения. 
 
 ## Используемые библиотеки
-*pandas*
+*pandas*, *lightgbm*, *ml_metrics*, *catboost*, *numpy*, *sklearn*
 
